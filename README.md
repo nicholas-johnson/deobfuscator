@@ -1,6 +1,6 @@
 # Email Deobfuscator #
 
-A jQuery plugin that renders a mailto link from an obfuscated email to deter spambots
+A jQuery plugin that renders a mailto link from an obfuscated email to deter spambots.
 
 ### What does it do? ##
 
@@ -12,11 +12,23 @@ Spambots crawl through the night, leafing through your blog, hunting for your em
 
 ### Is it accessible? ###
 
-Yes. with script turned off, you see a human readable email address that can easily be typed, of the form: "name at domain dot com"
+Yes. with script turned off, you see a human readable email address that can easily be typed, of the form: "name at domain dot com". It falls into the category of "progressive enhancement"
+
+### Can I see it in action? ###
+
+Yes, there are some examples up at [webofawesome.com/post/deobfuscator/](http://webofawesome.com/post/deobfuscator/)
 
 ### But will it blend? ###
 
-No.
+That question makes no sense. Define "Blend" in this context.
+
+### But it was your question ###
+
+Who are you talking to?
+
+### I don't know anymore ###
+
+Usage?
 
 ## Usage ##
 
