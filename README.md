@@ -56,3 +56,7 @@ If you'd like to add a default subject line, you do so like this:
     <span class="email" data-subject="Would you care for some soup?">name at domain dot com</span>
 
 Provided you're using an HTML5 doctype this is valid. You are using an HTML5 doctype aren't you?
+
+## Where to now? ##
+
+Download, or view some examples at [webofawesome.com/post/deobfuscator/](http://webofawesome.com/post/deobfuscator/).
